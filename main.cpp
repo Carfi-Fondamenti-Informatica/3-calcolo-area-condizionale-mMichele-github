@@ -29,7 +29,6 @@ int main()
     else
     {
         cout << "I valori inseriti non sono validi" << endl;
-        return 0;
     }
     return 0;
 }
