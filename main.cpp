@@ -23,7 +23,6 @@ int main()
                 break;
             default:
                 cout << "opzione non valida" << endl;
-                break;
         }
     }
     else
