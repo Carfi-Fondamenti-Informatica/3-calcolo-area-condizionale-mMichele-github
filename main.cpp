@@ -6,7 +6,7 @@ int main()
     int opzione=0;
     cout << "Inserire due valori reali positivi a piacere:" << endl;
     cin >>a>>b;
-    if (a>=0 && b>=0)
+    if (a>0 && b>0)
     {
         cout << "Scegliere un'opzione tra 0, 1, 2 :" << endl;
         cin >>opzione;
