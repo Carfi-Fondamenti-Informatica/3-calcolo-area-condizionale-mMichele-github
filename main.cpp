@@ -22,7 +22,7 @@ int main()
                 cout << a * b << endl;
                 break;
             default:
-                cout << "Opzione non valida" << endl;
+                cout << "opzione non valida" << endl;
                 break;
         }
     }
